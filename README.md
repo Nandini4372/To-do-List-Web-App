@@ -95,9 +95,6 @@ By building this project, you will learn:
 
 ✔️ Delete Tasks
 
-✔️ Real-Time Updates
-
-✔️ Responsive Design
 
 ---
 
